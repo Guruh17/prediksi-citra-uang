@@ -3,7 +3,7 @@
   <h1> Pattern Matching Citra Uang </h1>
 
   <p>
-    <b>Pada proyek kali ini saya melakukan pelatihan _Color-based Nearest Neighbors Image Retrieval_.</b>
+    <b>Pada proyek kali ini saya melakukan pelatihan Color-based Nearest Neighbors Image Retrieval.</b>
   </p>
 
   <h4>
