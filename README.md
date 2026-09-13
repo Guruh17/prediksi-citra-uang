@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1> _Pattern Matching_ Citra Uang </h1>
+  <h1> Pattern Matching Citra Uang </h1>
 
   <p>
     <b>Pada proyek kali ini saya melakukan pelatihan _Color-based Nearest Neighbors Image Retrieval_.</b>
